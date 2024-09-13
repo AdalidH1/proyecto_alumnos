@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos/static/css/main.ce644069.css",
-    "main.js": "/proyecto_alumnos/static/js/main.acd83c68.js",
+    "main.js": "/proyecto_alumnos/static/js/main.146cdd99.js",
     "static/media/EvelynGallegos.jpg": "/proyecto_alumnos/static/media/EvelynGallegos.d0321bacc9400a94093d.jpg",
     "static/media/Roman.jpg": "/proyecto_alumnos/static/media/Roman.ed1c6eedbf92de024b86.jpg",
     "static/media/Adalid Herrera Ruiz_.jpg": "/proyecto_alumnos/static/media/Adalid Herrera Ruiz_.df9b51d7c2842bf53555.jpg",
+    "static/media/Alo_Mtz.jpg": "/proyecto_alumnos/static/media/Alo_Mtz.103249671a6a19af91b8.jpg",
     "static/media/Haro.jpg": "/proyecto_alumnos/static/media/Haro.14e2f58c66b221660c0a.jpg",
     "static/media/dávila.jpeg": "/proyecto_alumnos/static/media/dávila.31a9e9660b5d616d53a6.jpeg",
-    "static/media/Alo_Mtz.jpg": "/proyecto_alumnos/static/media/Alo_Mtz.02f26d4873cd39c96135.jpg",
     "static/media/Screenshot_20240912_223634_Microsoft 365 (Office).jpg": "/proyecto_alumnos/static/media/Screenshot_20240912_223634_Microsoft 365 (Office).4a7afee1d49d5589dcb7.jpg",
     "static/media/Eduardo_Garcia.png": "/proyecto_alumnos/static/media/Eduardo_Garcia.81924e697e67e5a8529a.png",
     "static/media/damir-bosnjak.jpg": "/proyecto_alumnos/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.ce644069.css",
-    "static/js/main.acd83c68.js"
+    "static/js/main.146cdd99.js"
   ]
 }
